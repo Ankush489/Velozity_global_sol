@@ -1,0 +1,6 @@
+{
+  "name": "PulseBoard - Real-Time Client Project Dashboard",
+  "description": "Real-Time Client Project Dashboard with Role-Based Access Control, live activity feeds via WebSockets, task management, and background scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
